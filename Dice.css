@@ -1,0 +1,46 @@
+*{
+    background-color: black;
+}
+
+
+.heading{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    color: #4ECCA3;
+    font-family: 'Silkscreen', cursive;
+    font-size: 40px;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    
+}
+
+.dice{
+    font-family: 'Silkscreen', cursive;
+    color: #4ECCA3;
+    font-size: 40px;
+    padding: 10%;
+    display: inline-block;
+}
+
+.button{
+    
+    text-align: center;
+}
+
+input{
+    height: 50px;
+    width: 180px;
+    text-align: center;
+    /* background-color: aliceblue; */
+    background-color: rgb(11, 11, 11);
+
+    color: #4ECCA3;
+    font-family: 'Silkscreen', cursive;
+    align-items: center;
+    font-size: 20px;
+}
